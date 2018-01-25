@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *tipppity*
 
 **tipppity** is a tip calculator application for iOS.
 
@@ -10,7 +10,7 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is complete:
 
-* [X ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/7YmAs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/EmilyGarcia/TipCalculator/blob/master/TipCalc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -38,7 +38,7 @@ I initially connected it to the incorrect area and took a while to realize this.
 
 ## License
 
-Copyright [2017] [Emily Garcia]
+Copyright 2017 Emily Garcia
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
